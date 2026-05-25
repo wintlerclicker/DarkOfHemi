@@ -10,7 +10,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [EN] English
 
 #### Added
-- 50+ new combinations for Demon class
 - Sacrifice combos with risk/reward mechanic
 - Chaos effect system
 - New boss phases
@@ -32,7 +31,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [RU] Русский
 
 #### Добавлено
-- 50+ новых комбинаций для класса Демон
 - Жертвенные комбо с механикой риск/награда
 - Система эффекта хаоса
 - Новые фазы боссов
@@ -54,7 +52,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [ES] Español
 
 #### Añadido
-- 50+ nuevas combinaciones para la clase Demonio
 - Combinaciones de sacrificio con mecánica riesgo/recompensa
 - Sistema de efecto caos
 - Nuevas fases de jefes
@@ -76,7 +73,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [FR] Français
 
 #### Ajouté
-- 50+ nouvelles combinaisons pour la classe Démon
 - Combos de sacrifice avec mécanique risque/récompense
 - Système d'effet chaos
 - Nouvelles phases de boss
@@ -98,7 +94,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [DE] Deutsch
 
 #### Hinzugefügt
-- 50+ neue Kombinationen für die Dämonen-Klasse
 - Opfer-Kombos mit Risiko/Belohnungs-Mechanik
 - Chaos-Effekt-System
 - Neue Boss-Phasen
@@ -120,7 +115,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [ZH] 中文
 
 #### 新增
-- 恶魔职业的50+新组合
 - 带有风险/奖励机制的献祭连击
 - 混沌效果系统
 - 新的首领阶段
@@ -142,7 +136,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [JA] 日本語
 
 #### 追加
-- デーモンクラスの50以上の新コンボ
 - リスク/報酬メカニズムを備えた生贄コンボ
 - カオス効果システム
 - 新しいボスフェーズ
@@ -164,7 +157,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [KO] 한국어
 
 #### 추가됨
-- 악마 클래스의 50개 이상의 새로운 콤보
 - 위험/보상 메커니즘이 있는 희생 콤보
 - 카오스 효과 시스템
 - 새로운 보스 페이즈
@@ -186,7 +178,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [IT] Italiano
 
 #### Aggiunto
-- 50+ nuove combinazioni per la classe Demone
 - Combo sacrificali con meccanica rischio/ricompensa
 - Sistema di effetto caos
 - Nuove fasi dei boss
@@ -208,7 +199,6 @@ All notable changes to Dark of Hemi will be documented in this file.
 ### [PT] Português
 
 #### Adicionado
-- 50+ novas combinações para a classe Demônio
 - Combos de sacrifício com mecânica risco/recompensa
 - Sistema de efeito caos
 - Novas fases de chefes
